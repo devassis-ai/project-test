@@ -5,7 +5,7 @@ import os
 app = FastAPI()
 
 # 📁 Git 저장소 경로 설정 (반드시 로컬 경로로 수정!)
-REPO_PATH = r"C:\\Users\\js11w\\Documents\\GitHub\\project-test"  # ← 여기를 수정하세요
+REPO_PATH = r"C:/Users/js11w/Documents/GitHub/project-test"  # ← 여기를 수정하세요
 
 @app.post("/github-webhook")
 async def github_webhook(request: Request):
