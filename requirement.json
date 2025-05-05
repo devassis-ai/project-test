@@ -1,0 +1,28 @@
+{
+  "project_name": "NovaTech Solutions 회사 소개 웹사이트",
+  "description": "IT 솔루션 및 컨설팅 회사인 NovaTech Solutions의 회사 소개 웹사이트",
+  "requirements": [
+    "반응형 웹 디자인으로 모바일과 데스크톱 모두 지원",
+    "회사 개요 및 연혁 페이지",
+    "주요 서비스 및 솔루션 소개",
+    "팀원 프로필 페이지",
+    "고객 사례 및 후기 섹션",
+    "문의 및 연락처 양식",
+    "뉴스 및 블로그 섹션",
+    "채용 정보 페이지"
+  ],
+  "browser_testing": true,
+  "target_audience": "기업 고객 및 잠재적 파트너",
+  "design_preferences": {
+    "color_scheme": "파란색과 흰색 위주의 전문적인 디자인",
+    "typography": "가독성 높은 현대적 폰트",
+    "ui_elements": "깔끔하고 직관적인 내비게이션"
+  },
+  "technical_constraints": {
+    "frontend_framework": "React",
+    "deployment": "AWS",
+    "analytics": "Google Analytics",
+    "performance": "3초 이내 로딩 시간"
+  },
+  "content_management": "관리자가 뉴스 및 채용 정보 업데이트 가능"
+}
